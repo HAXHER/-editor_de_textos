@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Alexa Kaarime\OneDrive\Escritorio\Proyectos de programacion\Lenguaje C++\Proyecto SFML\Proyecto SFML\TextBox.h(45,28): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Proyecto SFML.vcxproj -> C:\Users\Alexa Kaarime\OneDrive\Escritorio\Proyectos de programacion\Lenguaje C++\Proyecto SFML\x64\Debug\Proyecto SFML.exe
